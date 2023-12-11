@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/speed-insights": "^1.0.1",
     "million": "^2.6.4",
     "next": "14.0.4",
     "preline": "^2.0.2",
